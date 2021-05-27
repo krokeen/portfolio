@@ -4,10 +4,10 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = hi@kroking.me;
+$from = 'hi@kroking.me';
 
 // an email address that will receive the email with the output of the form
-$sendTo = hi@kroking.me;
+$sendTo = 'hi@kroking.me';
 
 // subject of the email
 $subject = 'New message from contact form';
